@@ -23,6 +23,8 @@
     - bits/10 = bytes (VERY APPROXIMATE)
         - 100 Mb/sec is more like 10 MB/sec (technically 12.5 MB)
 
+<br/><br/>
+
 ## Bit
 - The [bit](https://en.wikipedia.org/wiki/Bit) (a portmanteau of binary digit) is a basic unit of - information used in computing and digital communications
 - A binary digit can have only one of two values
@@ -47,6 +49,8 @@
     | 10008	| Ybit | yottabit |
     | 10009	| Rbit | ronnabit |
     | 100010	| Qbit | quettabit |
+
+<br/><br/>
 
 ## Bytes
 - binary prefixes (kibi, mebi, gibi, ...)

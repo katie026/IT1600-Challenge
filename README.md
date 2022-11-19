@@ -7,6 +7,8 @@
 
 **Purpose**: This project provides experience working with markdown, Git/GitHub, and digital concepts.
 
+**Due**: ~~Sunday, November 20~~  Friday, November 18 @ 11:59 pm
+
 ---
 
 **Requirements**:  
@@ -20,3 +22,11 @@
 
 **Submission**  
 >Submit the Clone with HTTPS URL for the repository as specified in the assignment. The URL is available when you click the `green Code` button on the GitHub repository page.
+
+---
+
+<br></br>
+
+```
+Some test code
+```
