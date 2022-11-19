@@ -1,0 +1,1 @@
+| [Home](README.md) | [Bits & Bytes](page1.md) | [Prefixes](page2.md) | [Efficiency](page3.md) | [**Compression**](page4.md) |
